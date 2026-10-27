@@ -1,0 +1,21 @@
+# ninja log v7
+7	107	8148011757874375	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	359b70fcb9e2e129
+7	107	8148011757874375	C:/Users/chloe/Documents/Ecole/projet info/projet/chromia_portfolio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	359b70fcb9e2e129
+108	28322	8148012040012852	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	a9b246768d5b3c18
+108	28322	8148012040012852	C:/Users/chloe/Documents/Ecole/projet info/projet/chromia_portfolio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	a9b246768d5b3c18
+28322	28585	8148012040093284	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	4278a823a3f43b0a
+28322	28585	8148012040093284	C:/Users/chloe/Documents/Ecole/projet info/projet/chromia_portfolio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	4278a823a3f43b0a
+28585	28681	8148012043621313	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	28cdb84a5e50796f
+28585	28681	8148012043621313	C:/Users/chloe/Documents/Ecole/projet info/projet/chromia_portfolio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	28cdb84a5e50796f
+28681	28772	8148012044487686	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	715c7acc842fd06d
+28681	28772	8148012044487686	C:/Users/chloe/Documents/Ecole/projet info/projet/chromia_portfolio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	715c7acc842fd06d
+28772	28863	8148012045420149	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	aa66c2a2205971d1
+28772	28863	8148012045420149	C:/Users/chloe/Documents/Ecole/projet info/projet/chromia_portfolio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	aa66c2a2205971d1
+28864	28951	8148012046303884	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	b8a0ce64a8e36287
+28864	28951	8148012046303884	C:/Users/chloe/Documents/Ecole/projet info/projet/chromia_portfolio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	b8a0ce64a8e36287
+28952	29044	8148012047257796	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	6a56174ba6746526
+28952	29044	8148012047257796	C:/Users/chloe/Documents/Ecole/projet info/projet/chromia_portfolio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	6a56174ba6746526
+29045	29167	8148012048487568	CMakeFiles/sfml-populate-complete	bf2bcc0797575d98
+29045	29167	8148012048487568	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	bf2bcc0797575d98
+29045	29167	8148012048487568	C:/Users/chloe/Documents/Ecole/projet info/projet/chromia_portfolio/out/build/x64-Debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	bf2bcc0797575d98
+29045	29167	8148012048487568	C:/Users/chloe/Documents/Ecole/projet info/projet/chromia_portfolio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	bf2bcc0797575d98
